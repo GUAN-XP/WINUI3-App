@@ -1,5 +1,5 @@
 # winui3-App
-A simple but intact and ~~frequent-updated~~ winui3（and winui) App collection project
+winui3，但是winui3太少了，所以部分好用的winui2也会收录
 ## 📜目录
   - **WinUI 3 Gallery** （微软官方发布的实例）
   - **LyricEase**(大约秋季发布)
@@ -8,6 +8,7 @@ A simple but intact and ~~frequent-updated~~ winui3（and winui) App collection 
   - **Collapse**
   - **周易**
   - **摸鱼**
+  - **爱奇艺**
   - **Pixeval**
   - **Bili.Uwp**
   - *More and more*
