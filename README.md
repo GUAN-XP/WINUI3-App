@@ -10,6 +10,7 @@ winui3，但是winui3太少了，所以部分好用的winui2也会收录
   - **摸鱼**
   - **爱奇艺**
   - **Pixeval**
+  - **网络回环管理器**
   - **Bili.Uwp**
   - *More and more*
 ## ❤️特别鸣谢
