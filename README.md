@@ -5,6 +5,7 @@ winui3，但是winui3太少了，所以部分好用的winui2也会收录
   - **LyricEase**(大约秋季发布)
   - **热词**
   - **LenovoLegionToolkit**
+  - **Apple Music**
   - **Collapse**
   - **周易**
   - **摸鱼**
