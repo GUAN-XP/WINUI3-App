@@ -17,6 +17,7 @@ winui3，但是winui3太少了，所以部分好用的winui2也会收录
   - **Power toys**
   - **lively weather**
   - **Fluentcast**
+  - **PotatoVN**
   - ***More and more***
 ## ❤️特别鸣谢
   -御坂の Material You 软件仓库 和 群内的各位成员
